@@ -1,6 +1,3 @@
-import java.util.*;
-import java.lang.*;
-
 class MyThread extends Thread implements Runnable 
 {
 	public  void run()

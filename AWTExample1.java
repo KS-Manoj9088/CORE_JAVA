@@ -35,7 +35,7 @@ public class AWTExample1 extends Frame {
 public static void main(String args[]) {   
   
 // creating instance of Frame class   
-AWTExample1 f = new AWTExample1();    
+//AWTExample1 f = new AWTExample1();    
   
 }  
   
